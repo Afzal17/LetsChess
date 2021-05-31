@@ -1,0 +1,8 @@
+Schaak_Applicatie LetsChess ToDo.txt
+- Menu maken | Check
+- Toernooi CRUD Maken | Check
+- Schaakvereniging CRUD Maken | Check
+- Spelers CRUD Maken
+- Wedstrijd CRUD Maken
+- Uitslagen overzicht maken
+
